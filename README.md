@@ -13,3 +13,5 @@ My name is **Pedro Henrique Almeida**, I'm from Manaus/Amazonas, I'm systems inf
 
 # My Skills
 <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="max-width:100%;">   <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" style="max-width:100%;">   <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="max-width:100%;">
+
+![Snake animation](https://github.com/pedroAlmeidaDev/pedroAlmeidaDev/blob/output/github-contribution-grid-snake.svg)
