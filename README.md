@@ -1,5 +1,5 @@
 # Olá 👋🏽
-Olá meu nome é **Pedro Henrique Almeida Maia**
+Meu nome é **Pedro Henrique Almeida Maia**
 
 - Estudante de Sistemas de Informação, atualmente estou no 6º período 👨‍🎓
 - Iniciante em linguagem Java ☕️
