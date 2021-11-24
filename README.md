@@ -1,9 +1,9 @@
-# Hi there 😃✌
-My name is **Pedro Henrique Almeida**, I'm from Manaus/Amazonas, I'm systems information student 👨‍🎓, I'm new to software development.
+# Olá 👋🏽
+Olá meu nome é **Pedro Henrique Almeida**
 
-- I'm study in Centro Universitario Fametro 🏬 
-- I'm beginner in Java language and C++ 💻
-- looking for new challenges 💪 ( ͡❛ ͜ʖ ͡❛) 👊
+- Estudante de Sistemas de Informação, atualmente estou no 6º período 👨‍🎓
+- Iniciante em linguagem Java ☕️
+- Estou sempre em busca de novos desafios 🚀
 - Email: p_henrique1182@hotmail.com 📪
 
 # Connect with me
