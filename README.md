@@ -1,7 +1,7 @@
 # Olá 👋🏽
 Meu nome é **Pedro Henrique Almeida Maia**
 
-- Estudante de Sistemas de Informação, atualmente estou no 6º período 👨‍🎓
+- Estudante de Sistemas de Informação, atualmente estou no 7º período 👨‍🎓
 - Iniciante em linguagem Java ☕️
 - Estou sempre em busca de novos desafios 🚀
 - Email: p_henrique1182@hotmail.com 📪
