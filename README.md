@@ -5,6 +5,7 @@ Meu nome é **Pedro Henrique Almeida Maia**
 - Iniciante em linguagem Java ☕️
 - Estou sempre em busca de novos desafios 🚀
 - Email: p_henrique1182@hotmail.com 📪
+- YouTube: <a href = "https://youtube.com/channel/UCW49F45P0yyFQttOQxKsY7g/"><DevEmAção></a>▶
 
 # Connect with me
 <a href = "https://www.facebook.com/pedrohenrique.almeida.5030/" target="-blank">
