@@ -13,7 +13,7 @@ Meu nome é **Pedro Henrique Almeida Maia.**
 </a>
 
 <a href = "https://www.linkedin.com/in/pedro-henrique-almeida-maia-46a610180/" target="-blank">
-<img align="center" alt="pedro-facebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+<img align="center" alt="pedro-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 
 # My Skills
