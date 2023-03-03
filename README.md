@@ -1,7 +1,7 @@
 # Olá 👋🏽
 Meu nome é **Pedro Henrique Almeida Maia.**
 
-- Estudante de Sistemas de Informação, cursando o 8º período 👨‍🎓
+- Graduado em Sistemas de Informação 👨‍🎓
 - Atualmente migrando para área de Ciência de Dados 📊
 - Estou sempre em busca de novos desafios 🚀
 - Email: p_henrique1182@hotmail.com 📪
