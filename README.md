@@ -2,7 +2,7 @@
 Meu nome é **Pedro Henrique Almeida Maia.**
 
 - Graduado em Sistemas de Informação 👨‍🎓
-- Atualmente migrando para área de Ciência de Dados 📊
+- Atualmente exerço a função de Analista de Dados. 📊
 - Estou sempre em busca de novos desafios 🚀
 - Email: p_henrique1182@hotmail.com 📪
 - YouTube: <a href = "https://youtube.com/channel/UCW49F45P0yyFQttOQxKsY7g/"><DevEmAção></a> ▶
